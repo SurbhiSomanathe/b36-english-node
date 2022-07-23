@@ -1,8 +1,10 @@
 {
   "name": "b36-english-node",
   "version": "1.0.0",
-  "main": "double.js",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -10,6 +12,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.18.1"
-  }
+    "express": "^4.18.1",
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {}
 }
