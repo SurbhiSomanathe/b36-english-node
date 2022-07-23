@@ -1,0 +1,15 @@
+{
+  "name": "b36-english-node",
+  "version": "1.0.0",
+  "main": "double.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
